@@ -9,16 +9,10 @@
 
 > <h6>Currently the website is not running and the Ko-fi link does not lead anywhere. That is because the project is so early in development and we have no expenses to pay at the moment</h6>
 ---
+
 ## Localized README's
 All localized README's that currently exist are here, if you want to translate one for your language, please contact us
-
----
-<div align="center">
-  
-  [German README](https://github.com/Override-Team/.github/blob/main/localization/README-DE.md)
-</div>
-
----
+- [German README](https://github.com/Override-Team/.github/blob/main/localization/README-DE.md)
 
 ## What is Override
 Override is a platform for distritbuting SCP SECRET LABORATORY project eg. plugins, schematics, NW API and EXILED a like to a wider audicence making it easier for devlopers to publish their work and easier for server owners to find exatly the things they need
