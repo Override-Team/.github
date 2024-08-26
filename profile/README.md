@@ -9,13 +9,26 @@
 
 > <h6>Currently the website is not running and the Ko-fi link does not lead anywhere. That is because the project is so early in development and we have no expenses to pay at the moment</h6>
 ---
+## Localized README's
+All localized README's that currently exist are here, if you want to translate one for your language, please contact us
+
+---
+<div align="center">
+  
+  [German README](https://github.com/Override-Team/.github/blob/main/localization/README-DE.md)
+</div>
+
+---
 
 ## What is Override
-Override is a platform for easily uploading your projects for SCP Secret Laboratory. This includes schematics, NW API plugin, EXILED plugins and maybe even server pre-builts.
+Override is a platform for distritbuting SCP SECRET LABORATORY project eg. plugins, schematics, NW API and EXILED a like to a wider audicence making it easier for devlopers to publish their work and easier for server owners to find exatly the things they need
+and get done with their setup way faster
 
 ## Current State of the Project
-This project is currently in !! EARLY !! development. This project is currently only developed by me and Im a rookie when it comes to web development so dont expect the project to be super advanced. But this is hopefully going to be a big project so I will need
-some help with it, more [here](#contributing)
+The project is in really early development and a lot of the features we want to implement are not even fully designed. If you want to help, go [here](#contributing). We hope to finish this project soon enough for all players and server owners to benifit from it
 
 ## Contributing
-Im not going to lift this project all by my own so I welcome you with open arms if you want to help with this project.
+This project is still in early development and needs a lot of work. If you want to contribute to this project then please read the **Code of Conduct**
+
+## Contact
+If you want to contact us, join our discord and create a new support ticket. We want to implement a forum further on but that is not our highest priority
